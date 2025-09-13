@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: customer-service
+  datasource:
+    url: jdbc:jdbc:mysql://localhost:3306/microservices
+    username: root
+    password: Password@123
